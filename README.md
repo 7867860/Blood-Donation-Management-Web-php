@@ -8,12 +8,12 @@ Blood Bank Donation System is a php based web project with both admin and user l
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git).
+3. Download project from github(https://github.com/didarahmad7867860/Blood-Bank-And-Donation-Management-System.git).
 
    OR follow gitbash commands <br>
      ```t
          i>cd C:\\xampp\htdocs\
-        ii>git clone https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git
+        ii>git clone https://github.com/Didarahmad7867860/Blood-Bank-And-Donation-Management-System.git
      
      
 4. Extract files in C:\xampp\htdocs.
@@ -36,7 +36,7 @@ Blood Bank Donation System is a php based web project with both admin and user l
    Open any browser and type http://localhost/BDMS/admin/login.php to open Admin Login Panel.
    
    Enter Below Credentials to login to the Admin Panel.<br>
-   <b> Username = </b> varunsardana004<br>
+   <b> Username = </b> Didarjh<br>
    <b>Password = </b> 123
    
 # If you like my project hit the star 🌟 button
@@ -47,9 +47,7 @@ Blood Bank Donation System is a php based web project with both admin and user l
 <br><b>1. Home Page 
    <br>
    <img src="https://user-images.githubusercontent.com/54537819/96302170-efe43480-1015-11eb-85f0-f419cf18e34b.png">
-   <img src="https://user-images.githubusercontent.com/54537819/96302619-be1f9d80-1016-11eb-853e-fc463fa09ffd.png">
-   <img src="https://user-images.githubusercontent.com/54537819/96302799-0048df00-1017-11eb-833a-5956683f1d07.png">
-   <img src="https://user-images.githubusercontent.com/54537819/96302421-6e40d680-1016-11eb-8939-b7b09ed1e997.png">
+   <img src="https://user-images.githubusercontent.com/54537819/96302619-be1f9d80-1016-11eb-853e-fc463fa09ffd.png">ed1e997.png">
    <br>
    <br>
    2. About Us Page
